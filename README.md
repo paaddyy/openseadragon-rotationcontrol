@@ -2,6 +2,7 @@
 
 ```javascript
 const possibleOptions = {
+    viewer //MUST-HAVE!
     degree, //DEGREES TO SET AT INITIALIZE - ELSE 0
     location, // FROM 0 TO 4 => NONE: 0, TOP_LEFT: 1, TOP_RIGHT: 2, BOTTOM_RIGHT: 3, BOTTOM_LEFT: 4
     xOffset, // CUSTOM OFFSET X
@@ -20,7 +21,7 @@ Only pass the viewer and your own options into the control :)
 
 ```javascript
 new OpenSeadragon.RotationDetails({
-  viewer
+  possibleOptions
 })
 ```
 
