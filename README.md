@@ -25,4 +25,4 @@ new OpenSeadragon.RotationDetails({
 ```
 
 # THANKS TO
-Thanks to the National Institute of Standards and Technology ([a link](https://github.com/usnistgov/OpenSeadragonScalebar)) for their work which helped me a lot for my own control!
+Thanks to the [National Institute of Standards and Technology](https://github.com/usnistgov/OpenSeadragonScalebar) for their work which helped me a lot for my own control!
